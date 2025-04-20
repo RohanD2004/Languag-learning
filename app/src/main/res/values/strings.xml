@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Language Learning</string>
+    <string name="default_web_client_id">YOUR_CLIENT_ID_HERE</string>
+    <string name="john_doe">John Doe</string>
+
+    <string name="question_1">सही फोटो चुनें</string>
+    <string name="india"> भारत </string>
+    <string name="happy_text">Happy</string>
+    <string name="women">Gril</string>
+    <string name="student">Student</string>
+    <string name="india_text">India</string>
+
+    <!-- Content descriptions for accessibility -->
+    <string name="happy_desc">Happy person</string>
+    <string name="girl_desc">Girl</string>
+    <string name="student_desc">Student</string>
+    <string name="india_desc">Map of India</string>
+
+</resources>

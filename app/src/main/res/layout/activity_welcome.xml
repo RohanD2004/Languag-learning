@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- Background Image -->
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:contentDescription="Background image"
+        android:scaleType="centerCrop"
+        android:src="@drawable/wc" />
+
+
+    <TextView
+        android:id="@+id/quoteText"
+        android:layout_width="match_parent"
+        android:layout_height="386dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="80dp"
+        android:fontFamily="sans-serif-black"
+        android:gravity="center"
+        android:lineSpacingExtra="8dp"
+        android:text="TO HAVE\nANOTHER\nLANGUAGE\nIS TO\nPOSSESS A\nSECOND\nSOUL"
+        android:textColor="#680A71"
+        android:textSize="36sp"
+        android:textStyle="bold" />
+
+
+    <!-- Get Started Button -->
+    <Button
+        android:id="@+id/btn_get_started"
+        android:layout_width="372dp"
+        android:layout_height="65dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="48dp"
+        android:backgroundTint="@color/white"
+        android:text="Get Started"
+        android:textColor="@color/black"
+        android:textSize="18sp" />
+</RelativeLayout>

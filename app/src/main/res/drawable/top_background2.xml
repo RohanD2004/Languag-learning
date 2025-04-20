@@ -1,0 +1,8 @@
+
+<resources xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Add these to your existing colors.xml file -->
+    <color android:name="primary_color"
+        tools:ignore="ExtraText">#2c3e50</color>
+    <color android:name="white_hint_color">#80FFFFFF</color>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string-array name="languages">
+        <item>हिंदी (Hindi)</item>
+        <item>अंग्रेज़ी (English)</item>
+        <item>मराठी (Marathi)</item>
+        <item>बांग्ला (Bengali)</item>
+        <item>तमिल (Tamil)</item>
+    </string-array>
+
+    <string-array name="language_codes">
+        <item>hi</item>
+        <item>en</item>
+        <item>mr</item>
+        <item>bn</item>
+        <item>ta</item>
+    </string-array>
+</resources>
